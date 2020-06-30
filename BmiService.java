@@ -3,5 +3,4 @@ public class BmiService {
         float bmi = weightKg / (heightSm * heightSm / 10000);
         return bmi;
     }
-
 }
